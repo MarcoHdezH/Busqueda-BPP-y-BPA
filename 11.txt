@@ -1,0 +1,12 @@
+a:b,c,j
+b:a,c,d,e
+c:a,b,e,g
+d:b,g
+e:b,c,f,k
+f:e,g,h,k
+g:c,d,f,h,i
+h:g,f,j
+i:g,j,k,l
+j:a,h,i
+k:e,f,i,l
+l:i,k
